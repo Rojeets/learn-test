@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Web Development",
+      "description": "Build modern and responsive websites.",
+      "image": "WD.jpeg",
+      "link": "/courses/web-development"
+    },
+    {
+      "name": "Machine Learning",
+      "description": "Create predictive models and smart apps.",
+      "image": "ML.jpeg",
+      "link": "/courses/machine-learning"
+    },
+    {
+      "name": "Data Science",
+      "description": "Analyze data and gain business insights.",
+      "image": "DS.jpeg",
+      "link": "/courses/data-science"
+    },
+    {
+      "name": "Mobile App Development",
+      "description": "Develop apps for Android and iOS.",
+      "image": "MAD.jpeg",
+      "link": "/courses/mobile-app-development"
+    },
+    {
+      "name": "Cybersecurity",
+      "description": "Protect systems and networks from threats.",
+      "image": "cybersecurity.jpeg",
+      "link": "/courses/cybersecurity"
+    },
+    {
+      "name": "Cloud Computing",
+      "description": "Learn AWS, Azure, and Google Cloud.",
+      "image": "cloud.jpeg",
+      "link": "/courses/cloud-computing"
+    },
+    {
+      "name": "Blockchain",
+      "description": "Understand decentralized technologies.",
+      "image": "blockchain.jpeg",
+      "link": "/courses/blockchain"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "description": "Explore neural networks and deep learning.",
+      "image": "ai.jpeg",
+      "link": "/courses/artificial-intelligence"
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "Design user-friendly digital products.",
+      "image": "uiux.jpeg",
+      "link": "/courses/ui-ux-design"
+    },
+    {
+      "name": "DevOps",
+      "description": "Automate deployments and manage CI/CD.",
+      "image": "devops.jpeg",
+      "link": "/courses/devops"
+    }
+  ]
+  
